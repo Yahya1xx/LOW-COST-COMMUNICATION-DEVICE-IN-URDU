@@ -40,7 +40,7 @@ Battery charging and protection circuitry.
 Audio output circuitry and a small speaker.
 Optional microSD card for storing audio data or speech resources.
 A custom-designed PCB and handheld enclosure.
-
+![Low-Cost Communication Device Setup](image.png)
 The ESP32-WROOM will manage the user interface, text buffer, character selection, sentence editing, and audio playback or synthesis control.
 
 5. Offline Urdu Speech Generation
