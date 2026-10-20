@@ -1,4 +1,4 @@
-#LOW COST COMMUNICATION DEVICE IN URDU
+# LOW-COST COMMUNICATION DEVICE IN URDU #
 
 
 Project Proposal: Low-Cost Offline Urdu Voice Communication Device Using ESP32-WROOM
